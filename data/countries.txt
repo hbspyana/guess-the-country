@@ -1,0 +1,57 @@
+SOUTH ASIA : India
+EAST ASIA : China
+EAST ASIA : Japan
+EAST ASIA : Taiwan
+EUROPE : France
+EUROPE : Italy
+EUROPE : Spain
+EUROPE : Russia
+NORTH AFRICA : Egypt
+EAST AFRICA : Kenya
+EAST AFRICA : Uganda
+CENTRAL AFRICA : Congo
+SOUTH AMERICA : Brazil
+SOUTH AMERICA : Peru
+NORTH AMERICA : Chile
+NORTH AMERICA : Haiti
+NORTH AMERICA : Cuba
+NORTH AMERICA : Canada
+
+SOUTHEAST ASIA : Philippines
+SOUTH ASIA : Bangladesh
+SOUTH ASIA : Afghanistan
+CENTRAL ASIA : Kazakhstan
+EUROPE : Netherlands
+EUROPE : Switzerland
+EUROPE : Luzembourg
+EUROPE : Liechtenstein
+EAST AFRICA : Zimbabwe
+EAST AFRICA : Seychelles
+EAST AFRICA : Madagascar
+SOUTHERN AFRICA : Botswana
+SOUTH AMERICA : Argentina
+SOUTH AMERICA : Venezuela
+NORTH AMERICA :Paraguay
+NORTH AMERICA : Guatemala
+NORTH AMERICA : Bahamas
+NORTH AMERICA : Jamaica
+OCEANIA : Australia
+
+MIDDLE EAST / WESTERN ASIA : United Arab Emirates
+WESTERN ASIA : Saudi Arabia
+SOUTH ASIA : Sri Lanka
+EAST ASIA : South Korea
+EUROPE : United Kingdom
+EUROPE : Czech Republic
+EUROPE : San Marino
+EUROPE : North Macedonia
+EAST AFRICA : South Sudan
+THE MACARONESIA ECOREGION / WEST AFRICA : Cabo Verde
+SOUTH AFRICA : South Africa
+WEST AFRICA : Burkina Faso
+NORTH AMERICA : United States
+CENTRAL AMERICA : El Salvador
+THE CARIBBEAN : Dominican Republic
+NORTH AMERICA : Puerto Rico
+OCEANIA : Papa New Guinea
+OCEANIA : New Zealand
