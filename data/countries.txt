@@ -16,7 +16,6 @@ NORTH AMERICA : Chile
 NORTH AMERICA : Haiti
 NORTH AMERICA : Cuba
 NORTH AMERICA : Canada
-
 SOUTHEAST ASIA : Philippines
 SOUTH ASIA : Bangladesh
 SOUTH ASIA : Afghanistan
@@ -36,7 +35,6 @@ NORTH AMERICA : Guatemala
 NORTH AMERICA : Bahamas
 NORTH AMERICA : Jamaica
 OCEANIA : Australia
-
 MIDDLE EAST / WESTERN ASIA : United Arab Emirates
 WESTERN ASIA : Saudi Arabia
 SOUTH ASIA : Sri Lanka
