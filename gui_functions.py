@@ -31,7 +31,7 @@ def update_lives_display(lives_label, lives):
 def disable_key(button, correct=None):
     button.config(state='disabled')
     if correct is None:
-        button.config(bg = '#FFFFFF')
+        button.config(bg = 'white')
     elif correct:
         button.config(bg = '#4BEC4B')
     else:
@@ -80,5 +80,4 @@ if __name__ == '__main__':
     # ask_difficulty()
     window, my_canvas, frame, = create_window()
     setup_ui(window, my_canvas, frame)
-    tk.Label(window, text='Preview', bg='#f0f0f0', fg='gray').pack(pady=5)
     window.mainloop()
