@@ -35,8 +35,8 @@ NORTH AMERICA : Guatemala
 NORTH AMERICA : Bahamas
 NORTH AMERICA : Jamaica
 OCEANIA : Australia
-MIDDLE EAST / WESTERN ASIA : United Arab Emirates
-WESTERN ASIA : Saudi Arabia
+MIDDLE EAST / WEST ASIA : United Arab Emirates
+MIDDLE EAST / WEST ASIA : Saudi Arabia
 SOUTH ASIA : Sri Lanka
 EAST ASIA : South Korea
 EUROPE : United Kingdom
